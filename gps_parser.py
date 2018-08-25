@@ -81,4 +81,3 @@ class ParseJSON():
             json.dump(self.special, f)
         
         
-        
